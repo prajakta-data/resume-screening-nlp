@@ -29,8 +29,8 @@ Dataset is not included due to size and licensing.
 3. Run notebook
 
 ## Results
-- Macro F1-score: 
-- Accuracy: 
+- Macro F1-score: 99.45%
+- Accuracy: 99.48%
 
 ## Author
 Prajakta Godhane
