@@ -29,8 +29,8 @@ Dataset is not included due to size and licensing.
 3. Run notebook
 
 ## Results
-- Macro F1-score: ADD_YOUR_SCORE
-- Accuracy: ADD_YOUR_ACCURACY
+- Macro F1-score: 
+- Accuracy: 
 
 ## Author
-Your Name
+Prajakta Godhane
